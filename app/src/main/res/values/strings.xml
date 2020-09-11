@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StepDetectorSensor</string>
+    <string name="sensor_available">Step Detector Sensor Available</string>
+    <string name="sensor_not_available">Step Detector Sensor Not Available</string>
+</resources>
